@@ -461,4 +461,5 @@ a {
 .mouse:hover .scroll {
   top: 30.89%;
   bottom: 49.3%;
+  transition: 0.3s;
 }
